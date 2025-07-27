@@ -7,7 +7,7 @@ export default function ComingSoon() {
       <div className="container mx-auto">
         <div className="flex justify-center flex-col items-center h-dvh gap-4">
           <Image
-            src="/agg-logo.svg"
+            src="/images/agg-logo.svg"
             alt="agg facilities management"
             height={1080}
             width={1920}
